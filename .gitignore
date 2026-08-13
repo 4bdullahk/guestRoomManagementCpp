@@ -1,0 +1,6 @@
+*.docx
+*.o
+Makefile.win
+Project.dev
+Project.layout
+*.exe
